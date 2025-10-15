@@ -1,0 +1,17 @@
+格式说明：
+#订阅名
+地址(支持m3u订阅、tvbox配置文件中live选项的直播地址订阅)
+
+相对路径说明
+以./开头，相对位置是本订阅文件
+以/开头，存储卡的根目录
+
+#4K卫视•📺
+http://tv.html-5.me//i/0224200.txtdev/
+#斯玛特•🌻
+https://live.catvod.com/tv.m3u
+#冰茶•🐦‍🔥
+.https://fy.188766.xyz/?ip=&haiwai=true
+
+#体育直播•粤评⚽️
+http://rihou.cc:555/gggg.nzk
