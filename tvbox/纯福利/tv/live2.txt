@@ -13,7 +13,7 @@ https://gitee.com/sji820/des/raw/master/0.jpg
 #🔞•松系
 ./sex.m3u
 #🔞•私密频道
-https://aries.yuanwangokk.nyc.mn/m7CH
+./私密频道.txt
 #🔞•珍藏TV
 ./珍藏.m3u
 
